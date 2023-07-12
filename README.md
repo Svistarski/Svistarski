@@ -12,9 +12,9 @@
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr3.jpg?raw=true" width="230" title="DMV Test 1">
-<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr1.jpg?raw=true" width="230" title="DMV Test 3">
-<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr2.jpg?raw=true" width="230" title="DMV Test 2">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr3.jpg?raw=true" width="250" title="DMV Test 1">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr1.jpg?raw=true" width="250" title="DMV Test 3">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr2.jpg?raw=true" width="250" title="DMV Test 2">
 
 </p>
 
