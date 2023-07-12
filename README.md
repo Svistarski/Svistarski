@@ -25,7 +25,9 @@
 * DroneMobile - A native iOS IoT application used to remotely control vehicle
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr4.jpg?raw=true" width="270" title="DMV Test 1">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr5.jpg?raw=true" width="270" title="DMV Test 3">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr6.jpg?raw=true" width="270" title="DMV Test 2">
 
 </p>
 
