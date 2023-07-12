@@ -39,7 +39,9 @@
 * PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/93138739-516e5780-f694-11ea-8578-3f16db1bc263.png" width="930" title="PUMBOnline">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr7.jpg?raw=true" width="270" title="DMV Test 1">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr8.jpg?raw=true" width="270" title="DMV Test 3">
+<img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr9.jpg?raw=true" width="270" title="DMV Test 2">
 
 </p>
 
