@@ -19,8 +19,8 @@ A multi-screen application that enables user to create and manage his daily obje
 
 </p>
 
-# [WeatherSpotBySvist](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
-<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [WeatherSpotBySvist](https://github.com/Svistarski/WeatherSpotBySvist)
+<p align="left"> <a href="https://github.com/Svistarski/WeatherSpotBySvist"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 A user-friendly weather application with a minimalistic design that offers accurate location-based (worldwide) real-time weather updates
@@ -41,8 +41,7 @@ A user-friendly weather application with a minimalistic design that offers accur
 
 </p>
 
-# [WeatherSpotBySvist](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
-<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# FlowerScanBySvist
 </p>
 
 An application powered by a Machine Learning model that identifies flowers through camera captures and presents users with an image of the recognized flower and descriptions
