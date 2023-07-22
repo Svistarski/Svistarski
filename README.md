@@ -41,7 +41,7 @@ A user-friendly weather application with a minimalistic design that offers accur
 
 </p>
 
-# FlowerScanBySvist
+# [FlowerScanBySvist](https://github.com/Svistarski)
 </p>
 
 An application powered by a Machine Learning model that identifies flowers through camera captures and presents users with an image of the recognized flower and descriptions
