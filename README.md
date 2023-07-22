@@ -1,15 +1,16 @@
 <a href="https://s3.amazonaws.com/attachments.angel.co/7192901-687be9e284e21102b934d0b72399ac9d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T235828Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4920642ceb1885f01605debb7f6f9148dfcaa97bf073abc27e7b2a91e8531082" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:decodealex1@gmail.comm"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/decodealex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# [DMV Test Prep](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862" download><img src="[https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png](https://github.com/Svistarski/Svistarski/blob/main/bam1.jpg?raw=true)" width="170" >  <a href="https://play.google.com/store/apps/details?id=app.testologie.dmv" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
+# [ToDoBySvist](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
+<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-
-
-* DMV Test Prep - it's cross-platform mobile application build in Flutter;
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
-* Database - PostgresQL. Hosted on AWS.
+A multi-screen application that enables user to create and manage his daily objectives
+  -
+* UIKit, CoreData & Chameleon frameworks;
+* UITableViewController, UIAlertController & UISearchBar;
+* NSFetchRequest & NSPredicate;
+* CRUD;
+* CocoaPods.
 
 <p align="center">
 <img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr3.jpg?raw=true" width="270" title="DMV Test 1">
@@ -18,11 +19,20 @@
 
 </p>
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
+# [WeatherSpotBySvist](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
+<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-* DroneMobile - A native iOS IoT application used to remotely control vehicle
+A user-friendly weather application with a minimalistic design that offers accurate location-based (worldwide) real-time weather updates
+  -
+* UIKit & CoreLocation;
+* Autolayout;
+* Grand Central Dispatch;
+* URLSession;
+* JSONParsing;
+* UITextField;
+* Codable type alias & custom protocols;
+* OpenWeatherMap API.
 
 <p align="center">
 <img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr4.jpg?raw=true" width="270" title="DMV Test 1">
@@ -31,12 +41,18 @@
 
 </p>
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+# [WeatherSpotBySvist](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
+<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-* PUMB Online - A native iOS online banking app which helps people to manage their finance
-* PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
+An application powered by a Machine Learning model that identifies flowers through camera captures and presents users with an image of the recognized flower and descriptions
+  -
+* UIKit, CoreML & Vision frameworks;
+* Alamofire, SwiftyJSON & SDWebImage libraries;
+* UIImagePickerControllerDelegate & UINavigationControllerDelegate protocols;
+* Wikipedia's API;
+* Swift Package Manager.
+
 
 <p align="center">
 <img src="https://github.com/Svistarski/Svistarski/blob/main/Swift1_Scr7.jpg?raw=true" width="270" title="DMV Test 1">
